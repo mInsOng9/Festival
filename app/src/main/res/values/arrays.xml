@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="local">
+        <item>지역선택</item>
+        <item>서울특별시</item>
+        <item>부산광역시</item>
+        <item>대구광역시</item>
+        <item>인천광역시</item>
+        <item>광주광역시</item>
+        <item>대전광역시</item>
+        <item>울산광역시</item>
+        <item>세종특별자치시</item>
+        <item>경기도</item>
+        <item>강원도</item>
+        <item>충청북도</item>
+        <item>충청남도</item>
+        <item>전라북도</item>
+        <item>전라남도</item>
+        <item>경상북도</item>
+        <item>경상남도</item>
+        <item>제주특별자치도</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>장르선택</item>
+        <item>연극</item>
+        <item>뮤지컬</item>
+        <item>무용</item>
+        <item>클래식</item>
+        <item>오페라</item>
+        <item>국악</item>
+        <item>복합</item>
+    </string-array>
+
+    <string-array name="prfstate">
+        <item>공연상태</item>
+        <item>공연예정</item>
+        <item>공연중</item>
+        <item>공연완료</item>
+    </string-array>
+
+</resources>
+
