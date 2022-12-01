@@ -87,8 +87,7 @@ public class MainActivity extends AppCompatActivity {
         tvDate=findViewById(R.id.tv_date);
         calendarView=findViewById(R.id.calendar);
         tvDate.setOnClickListener(view -> {
-            if(dateOn)
-               calView();
+            if(dateOn) calView();
             else{
                 calendarView.setVisibility(View.GONE);
                 dateOn=true;
